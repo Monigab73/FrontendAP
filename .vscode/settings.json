@@ -1,0 +1,54 @@
+{
+    "terminal.explorerKind": "integrated",
+    "terminal.integrated.altClickMovesCursor": false,
+    "terminal.integrated.allowChords": false,
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.detectLocale": "on",
+    "terminal.integrated.fontSize": 14,
+    "editor.linkedEditing": true,
+    "editor.quickSuggestions": {
+        "comments": "on",
+        "strings": "on"
+    },
+    "editor.cursorSurroundingLinesStyle": "all",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.find.cursorMoveOnType": true,
+    "diffEditor.maxComputationTime": 0,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.defaultLocation": "editor",
+    "terminal.integrated.defaultProfile.windows": "Windows PowerShell",
+    "terminal.integrated.rightClickBehavior": "copyPaste",
+    "terminal.integrated.sendKeybindingsToShell": true,
+    "task.problemMatchers.neverPrompt": false,
+    "remote.downloadExtensionsLocally": true,
+    "notebook.editorOptionsCustomizations": {
+    
+    },
+    "auto-close-tag.activationOnLanguage": [
+
+        "xml",
+        "php",
+        "blade",
+        "ejs",
+        "jinja",
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact",
+        "plaintext",
+        "markdown",
+        "vue",
+        "liquid",
+        "erb",
+        "lang-cfml",
+        "cfml",
+        "HTML (EEx)",
+        "HTML (Eex)",
+        "plist"
+    ],
+    "auto-close-tag.disableOnLanguage": [
+    
+    ],
+    "auto-close-tag.fullMode": true,
+    "npm.scriptExplorerAction": "open"
+}
